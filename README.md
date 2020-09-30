@@ -1,0 +1,5 @@
+# Pj1
+Esse projeto foi projeto foi pensando para levar avaliações de qualquer produto consumível ou estabelecimento, seja ele um filme, lanchonete, loja de roupa, mercearia, bar, etc. 
+Para que qualquer pessoa que sentir curiosidade em saber como é o lugar ou saber se uma lanchonete tem um bom atendimento ou se uma loja entrega roupas de qualidade boa,  o projeto  foi pensando para que tenha avaliações de qualquer coisa.
+Acredito que esse projeto ajuda a transformação digital a partir do momento em que ele ajuda as pessoas a encontrarem bom lugares e mostra os erros dos ruins, fazendo empresas que tem um bom serviço receberem mais atenção e as que proporcionam um mal serviço possam melhorar com base nas avalições que elas recebem. 
+Nesse projeto inicial eu fiz uma pequena demonstração de como funcionaria o projeto, o usuário faria uma avaliação de um filme e ela ficaria tanto disponível para as outras pessoas como para a empresa e a avaliação seria feita de forma anônima para não prejudicar o avaliador.
